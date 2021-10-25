@@ -1,0 +1,9 @@
+.ContenedorLinkFooter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  flex-direction: column;
+  margin-left: 20px;
+  margin-right: 20px;
+}
