@@ -1,7 +1,13 @@
+import React from "react";
 import "./Main.css";
 
-const Main = () => {
-  return <div>Main</div>;
+const Main = ({ children }) => {
+  return (
+    <main>
+			<h1 className="H1">Haikus</h1>
+	     {children}
+    </main>
+  );
 };
 
 export default Main;
