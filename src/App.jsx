@@ -8,7 +8,7 @@ const App = () => (
   <>
     <Header />
     <Main>
-	     Cualquier contenido puede estar en main
+	     <Home />
     </Main>
     <Footer />
   </>

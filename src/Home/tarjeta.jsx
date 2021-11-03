@@ -11,7 +11,7 @@ const Tarjeta = () => {
         </div>
         <div className="CuerpoTarjeta">
           <div className="InfoTarjeta">
-            <img src={`https://picsum.photos/32/32`} alt="PerfilHaiku" />
+            <img src={`https://picsum.photos/32/32`} alt="PerfilHaiku" className="ImagenPerfil" />
             <h4>Titulo del Haiku</h4>
           </div>
           <FontAwesomeIcon icon={faShareAlt} className="IconoCompartirTarjeta" />

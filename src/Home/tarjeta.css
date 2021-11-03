@@ -1,3 +1,28 @@
-.InfoTarjeta {
+.ImagenTarjeta {
+    width: 100%;
+}
+
+.ImagenTarjeta > img {
+    width: 100%;
+}
+
+.ImagenPerfil{
+    height: 32px;
+    width: 32px;
     border-radius: 50%;
+}
+
+.CuerpoTarjeta {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.InfoTarjeta {
+    display: flex;
+    align-items: center;
+}
+
+.TitulodelHaiku {
+    border-left: 20px;
 }
