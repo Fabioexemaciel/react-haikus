@@ -1,0 +1,37 @@
+.ContactanosIconos{
+    display: flex;
+    justify-content: center;
+    color: var(--rosa-claro);
+}
+
+#Facebook{
+    height: 30px;
+    width: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 50%;
+}
+
+#Contactanos{
+    height: 30px;
+    width: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 50%;
+}
+
+#Instagram{
+    height: 30px;
+    width: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 50%;
+}
+
+.TextoContactenos{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}

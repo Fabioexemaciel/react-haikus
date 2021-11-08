@@ -26,3 +26,11 @@
 .TitulodelHaiku {
     border-left: 20px;
 }
+
+.Haiku{
+    position: relative;
+    top: 0px;
+    bottom: 0px;
+    left: auto;
+    right: auto;
+}
