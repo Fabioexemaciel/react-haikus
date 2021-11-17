@@ -8,7 +8,7 @@ const Home = () =>
         <>
     <h4 className="H4">Coleccion</h4>
     <div id="galeria">
-    <Tarjeta haiku="Hola Fonseca" autor="Noobmaster69"/>
+    <Tarjeta Haiku="Hola fonseca" autor="Yo" />
     <Tarjeta />
     <Tarjeta />
     </div>

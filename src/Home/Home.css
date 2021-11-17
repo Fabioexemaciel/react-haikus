@@ -1,3 +1,11 @@
+.Home {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 #galeria {
     display: grid;
+    justify-content: space-between;
+    align-items: center;
 }
